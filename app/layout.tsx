@@ -4,6 +4,7 @@ import {BackgroundWave} from "@/components/background-wave";
 import Link from "next/link";
 import {RasadharaLogo} from "@/components/logos";
 
+export const metadata: Metadata = {
     title: "Swasthya Suraksha Vani - IFA Adherence",
 };
 
