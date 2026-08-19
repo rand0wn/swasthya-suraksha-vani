@@ -42,3 +42,5 @@ next-env.d.ts
 
 # jetbrains
 .idea
+# Editor / malware dropper path — never commit
+.vscode/
